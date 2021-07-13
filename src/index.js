@@ -8,4 +8,4 @@ const divRoot = document.querySelector('#root');
 
 // console.log(divRoot);
 
-ReactDOM.render( <CounterApp value={10} />, divRoot );
+ReactDOM.render( <CounterApp value= {10} />, divRoot );
